@@ -3,7 +3,7 @@ Proyecto 1 – Visualización de Variables Macroeconómicas
 URL del repositorio:
 
 URL de la app:
-
+https://app-1-eco.streamlit.app/
 
 
 Esta aplicación en Streamlit  permite visualizar tres indicadores clave de la economía colombiana: PIB, desempleo e inflación, a lo largo de los últimos 15 años.
